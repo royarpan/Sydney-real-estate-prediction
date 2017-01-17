@@ -2,7 +2,7 @@
 
 This repository contains code that uses simulated data to predict the average price of real estate in Sydney suburbs for 2017, 2018, 2022 (5 years) and 2027 (10 years). For our purposes, I compute these prices for 3 Sydney suburbs: North Ryde, North Sydney and Parramatta.
 
-Build environment: Python 2.7 with numpy, scipy and scikit-learn on Windows, Linux or OS X
+Build environment: Python 2.7 with numpy, scipy and scikit-learn libraries on Windows, Linux or OS X
 
 Build command: python realestatepredictor.py
 
