@@ -1,0 +1,4 @@
+Suburb Name | House price | Average house price growth% | Annual house price growth 2015% | Unit Price | Average unit price growth% | Annual unit price growth 2015% | No. of people employed 2015 | Growth in employment% | Standard deviation employment | Walk score 2015     
+North Ryde 1430000 9.74 1.98 895000 6.1 5.42 38000 1440 496.38 62
+North Sydney 1912500 8.38 12.3 794000 6.06 -8.84 42000 560 344.1 92 
+Paramatta 961000 8.78 -14.27 585000 6.83 -5.65 37000 840 234 62
